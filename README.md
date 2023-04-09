@@ -45,10 +45,10 @@ This data only show the location of *public* payphones. Public payphones are ins
 Preferred Citation format:
 `Elijah Beaton, with contributions from Mark Thomas, "Telecom Companies and the Hidden Segmentation of Urban Space; Public Payphones in 2015 NYC", 2023, https://payphones.codeberg.org`
 
-This project is licensed under [Creative Commons Attribution-NonCommercial 4.0](https://codeberg.org/Payphones/Data/src/branch/main/license.txt), which requires that all authors be appropriately cited (both Elijah Beaton and Mark Thomas) when using any data from this project. 
+This project is licensed under [Creative Commons Attribution-NonCommercial 4.0](/src/branch/main/license.txt), which requires that all authors be appropriately cited (both Elijah Beaton and Mark Thomas) when using any data from this project. 
 
 **TL;DR**: You are free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) with attribution (you must give appropriate credit, provide a link to the license, and indicate if changes were made), and noncommercially.
 
 
-[Download a RIS citation file for Zotero or other Citation managers ↓](https://codeberg.org/Payphones/Data/raw/branch/main/citation.ris)
+<a href="/raw/branch/main/citation.ris" download>Download a RIS citation file for Zotero or other Citation managers ↓</a>
 
